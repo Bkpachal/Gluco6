@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /order/
-Sitemap: https://gluco6.onrender.com/sitemap.xml
